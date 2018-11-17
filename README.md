@@ -1,2 +1,0 @@
-# piszczala
-Personal blog
